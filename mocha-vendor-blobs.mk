@@ -81,6 +81,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libpowerservice_client.so:system/lib/libpowerservice_client.so \
     vendor/xiaomi/mocha/proprietary/lib/libtbb.so:system/lib/libtbb.so \
     vendor/xiaomi/mocha/proprietary/lib/librm31080.so:system/lib/librm31080.so \
+    vendor/xiaomi/mocha/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/xiaomi/mocha/proprietary/lib/librm_ts_service.so:system/lib/librm_ts_service.so \
     vendor/xiaomi/mocha/proprietary/lib/para_10_04_00_10.so:system/lib/para_10_04_00_10.so \
     vendor/xiaomi/mocha/proprietary/lib/para_10_06_00_b0.so:system/lib/para_10_06_00_b0.so \
