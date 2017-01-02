@@ -115,7 +115,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/gralloc.tegra.so:system/vendor/lib/hw/gralloc.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/hwcomposer.tegra.so:system/vendor/lib/hw/hwcomposer.tegra.so \
-    vendor/xiaomi/mocha/proprietary/vendor/lib/hw/power.tegra.so:system/vendor/lib/hw/power.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libardrv_dynamic.so:system/vendor/lib/libardrv_dynamic.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libaudioavp.so:system/vendor/lib/libaudioavp.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libcgdrv.so:system/vendor/lib/libcgdrv.so \
