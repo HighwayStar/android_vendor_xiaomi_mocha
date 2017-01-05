@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/bin/dcc:system/bin/dcc \
+    vendor/xiaomi/mocha/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/xiaomi/mocha/proprietary/bin/hotplug:system/bin/hotplug \
     vendor/xiaomi/mocha/proprietary/bin/nvio:system/bin/nvio \
     vendor/xiaomi/mocha/proprietary/bin/sensor_select.sh:system/bin/sensor_select.sh \
