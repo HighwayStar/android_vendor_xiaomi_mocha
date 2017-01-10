@@ -116,6 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/bin/tlk_daemon:system/vendor/bin/tlk_daemon \
     vendor/xiaomi/mocha/proprietary/vendor/bin/touch_fusion:system/vendor/bin/touch_fusion \
     vendor/xiaomi/mocha/proprietary/vendor/bin/touch_fusion_rd:system/vendor/bin/touch_fusion_rd \
+    vendor/xiaomi/mocha/proprietary/vendor/bin/powerservice:system/vendor/bin/powerservice \
     vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd \
     vendor/xiaomi/mocha/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/gralloc.tegra.so:system/vendor/lib/hw/gralloc.tegra.so \
