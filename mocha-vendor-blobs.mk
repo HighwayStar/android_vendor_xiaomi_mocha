@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/bin/nvio:system/bin/nvio \
     vendor/xiaomi/mocha/proprietary/bin/sensor_select.sh:system/bin/sensor_select.sh \
     vendor/xiaomi/mocha/proprietary/bin/set_light_sensor_perm.sh:system/bin/set_light_sensor_perm.sh \
-    vendor/xiaomi/mocha/proprietary/bin/set_hwui_params.sh:system/bin/set_hwui_params.sh \
     vendor/xiaomi/mocha/proprietary/bin/ussr_setup.sh:system/bin/ussr_setup.sh \
     vendor/xiaomi/mocha/proprietary/etc/bluetooth/bdaddr:system/etc/bluetooth/bdaddr \
     vendor/xiaomi/mocha/proprietary/etc/enctune.conf:system/etc/enctune.conf \
