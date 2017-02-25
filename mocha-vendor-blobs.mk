@@ -82,7 +82,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/xiaomi/mocha/proprietary/lib/libnvoice.so:system/lib/libnvoice.so \
     vendor/xiaomi/mocha/proprietary/lib/libopencv24_tegra.so:system/lib/libopencv24_tegra.so \
-    vendor/xiaomi/mocha/proprietary/lib/libpowerservice_client.so:system/lib/libpowerservice_client.so \
     vendor/xiaomi/mocha/proprietary/lib/libtbb.so:system/lib/libtbb.so \
     vendor/xiaomi/mocha/proprietary/lib/librm31080.so:system/lib/librm31080.so \
     vendor/xiaomi/mocha/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
@@ -115,7 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/bin/tlk_daemon:system/vendor/bin/tlk_daemon \
     vendor/xiaomi/mocha/proprietary/vendor/bin/touch_fusion:system/vendor/bin/touch_fusion \
     vendor/xiaomi/mocha/proprietary/vendor/bin/touch_fusion_rd:system/vendor/bin/touch_fusion_rd \
-    vendor/xiaomi/mocha/proprietary/vendor/bin/powerservice:system/vendor/bin/powerservice \
     vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd \
     vendor/xiaomi/mocha/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/gralloc.tegra.so:system/vendor/lib/hw/gralloc.tegra.so \
@@ -214,7 +212,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvwinsys.so:system/vendor/lib/libnvwinsys.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvwsi.so:system/vendor/lib/libnvwsi.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libphs.so:system/vendor/lib/libphs.so \
-    vendor/xiaomi/mocha/proprietary/vendor/lib/libpowerservice.so:system/vendor/lib/libpowerservice.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libtlk_secure_hdcp_up.so:system/vendor/lib/libtlk_secure_hdcp_up.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libtsechdcp.so:system/vendor/lib/libtsechdcp.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libtsec_wrapper.so:system/vendor/lib/libtsec_wrapper.so \
