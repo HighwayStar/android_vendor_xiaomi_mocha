@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
-    vendor/xiaomi/mocha/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/keystore.tegra.so:system/lib/hw/keystore.tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/camera.vendor.tegra.so:system/lib/hw/camera.vendor.tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/lights.tegra.so:system/lib/hw/lights.tegra.so \
@@ -84,7 +83,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libopencv24_tegra.so:system/lib/libopencv24_tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/libtbb.so:system/lib/libtbb.so \
     vendor/xiaomi/mocha/proprietary/lib/librm31080.so:system/lib/librm31080.so \
-    vendor/xiaomi/mocha/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/xiaomi/mocha/proprietary/lib/librm_ts_service.so:system/lib/librm_ts_service.so \
     vendor/xiaomi/mocha/proprietary/lib/para_10_04_00_10.so:system/lib/para_10_04_00_10.so \
     vendor/xiaomi/mocha/proprietary/lib/para_10_06_00_b0.so:system/lib/para_10_06_00_b0.so \
